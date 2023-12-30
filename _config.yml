@@ -1,0 +1,44 @@
+# site settings
+title: Heather Dunn Cello
+subtitle: Virtual and In-Person Lessons
+email: hdunn076@gmail.com
+description: Beginning, intermediate and folk cello emphasizing technique and theory.
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 410 S Michigan Ave
+city: Chicago
+state: IL
+zip_code: 60605
+country: United States of America
+phone:
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: 
+  GitLab:
+  Google-Plus:
+  Instagram: https://www.instagram.com/interlopingcellist/
+  LinkedIn: 
+  Twitter:
+  Facebook: https://www.facebook.com/interlopingcellist
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
