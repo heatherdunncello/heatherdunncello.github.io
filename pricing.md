@@ -19,7 +19,7 @@ nav-menu: true
 		<ul>
 		<li>$100 for a 50-minute lesson (Saturdays only)</li>
 		</ul>
-		<h4>Virtual Lessons</h4>
+		<h4>Video Lessons</h4>
 		<ul>
 		<li>$75 for a 60-minute lesson</li>
 		<li>$40 for a 30-minute lesson</li>

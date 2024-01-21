@@ -31,7 +31,7 @@ nav-menu: true
         <button>
         <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
         <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-        <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/heatherdunncello/cello-lesson-virtual-30-minutes'});return false;">Cello Lesson - Virtual - 30 Minutes</a>
+        <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/heatherdunncello/cello-lesson-virtual-30-minutes'});return false;">Cello Lesson - Video - 30 Minutes</a>
         </button>
         </p>
         <!-- Calendly link widget end -->
@@ -41,7 +41,7 @@ nav-menu: true
         <button>
         <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
         <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-        <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/heatherdunncello/cello-lesson-virtual-60-minutes'});return false;">Cello Lesson - Virtual - 60 Minutes</a>
+        <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/heatherdunncello/cello-lesson-virtual-60-minutes'});return false;">Cello Lesson - Video - 60 Minutes</a>
         </button>
         </p>
         <!-- Calendly link widget end -->
