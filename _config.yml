@@ -1,6 +1,6 @@
 # site settings
 title: Heather Dunn Cello
-subtitle: Virtual and In-Person Lessons
+subtitle: Video and In-Person Lessons
 email: hdunn076@gmail.com
 description: Beginning, intermediate and folk cello emphasizing technique and theory.
 baseurl: # the subpath of your site, e.g. /blog
@@ -12,6 +12,7 @@ state: IL
 zip_code: 60605
 country: United States of America
 phone:
+mtna_number: 911857
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
